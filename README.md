@@ -36,6 +36,30 @@
 <img src="https://img.shields.io/badge/Concurrency-7C3AED?style=for-the-badge" alt="Concurrency" />
 <img src="https://img.shields.io/badge/Reliability-0891B2?style=for-the-badge" alt="Reliability" />
 
+<br />
+<br />
+
+<p><strong>后端框架</strong></p>
+<img src="https://img.shields.io/badge/Java-334155?style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-2563EB?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-4F46E5?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Cloud" />
+
+<p><strong>数据与中间件</strong></p>
+<img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-4F46E5?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Elasticsearch-7C3AED?style=for-the-badge&amp;logo=elasticsearch&amp;logoColor=white" alt="Elasticsearch" />
+<img src="https://img.shields.io/badge/Message%20Queue-0891B2?style=for-the-badge" alt="Message Queue (MQ)" />
+
+<p><strong>AI 应用与 Agent</strong></p>
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0891B2?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/LangChain-4F46E5?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+<br />
+<img src="https://img.shields.io/badge/Agents-334155?style=flat-square" alt="Agents" />
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=flat-square" alt="Tool Calling" />
+
+<p><sub>实践与学习方向 · 从业务场景理解工具背后的工程取舍</sub></p>
 </div>
 
 <br />
@@ -50,7 +74,7 @@
 | **可靠性与可观测性** | 超时与失败如何处理？日志与指标能否帮助解释系统行为？ |
 | **AI 应用** | 检索与模型如何接入业务？如何评估效果、延迟与成本？ |
 
-实践中使用 Java / Spring、MySQL、Redis 等工具，在具体场景中理解这些工程问题。
+围绕后端服务、数据与中间件、AI 应用持续实践，在具体场景中理解这些工程问题。
 
 ### <img src="assets/process.svg" width="22" height="22" alt="" /> 我的学习方式
 
@@ -71,3 +95,4 @@ Thanks for visiting · 欢迎交流与一起学习
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563eb,100:8b5cf6&amp;height=100&amp;section=footer" width="100%" alt="Blue and purple wave footer" />
 
 </div>
+
