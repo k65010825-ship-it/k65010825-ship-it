@@ -30,7 +30,10 @@
 
 ### <img src="assets/architecture.svg" width="22" height="22" alt="" /> 工程视角
 
-接口设计 · 数据一致性 · 并发控制 · 系统可靠性
+<img src="https://img.shields.io/badge/API%20Design-2563EB?style=flat-square" alt="接口设计" /> &nbsp;
+<img src="https://img.shields.io/badge/Data%20Consistency-4F46E5?style=flat-square" alt="数据一致性" /> &nbsp;
+<img src="https://img.shields.io/badge/Concurrency-7C3AED?style=flat-square" alt="并发控制" /> &nbsp;
+<img src="https://img.shields.io/badge/Reliability-0891B2?style=flat-square" alt="系统可靠性" />
 
 <br />
 
@@ -59,7 +62,9 @@
 <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" /> &nbsp;
 <img src="https://img.shields.io/badge/LangChain-4F46E5?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
 
-Agents &nbsp; / &nbsp; RAG &nbsp; / &nbsp; Tool Calling
+<img src="https://img.shields.io/badge/Agents-2563EB?style=flat-square" alt="Agents" /> &nbsp;
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" /> &nbsp;
+<img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=flat-square" alt="Tool Calling" />
 
 <br />
 
@@ -100,4 +105,6 @@ Thanks for visiting · 欢迎交流与一起学习
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563eb,100:8b5cf6&amp;height=100&amp;section=footer" width="100%" alt="Blue and purple wave footer" />
 
 </div>
+
+
 
