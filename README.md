@@ -35,7 +35,6 @@
 <img src="https://img.shields.io/badge/Concurrency-7C3AED?style=flat-square" alt="并发控制" /> &nbsp;
 <img src="https://img.shields.io/badge/Reliability-0891B2?style=flat-square" alt="系统可靠性" />
 
-<br />
 
 **后端框架**
 
@@ -43,8 +42,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-475569?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" /> &nbsp;
 <img src="https://img.shields.io/badge/Spring%20Cloud-475569?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring Cloud" />
 
-<br />
-<br />
 
 **数据与中间件**
 
@@ -53,8 +50,6 @@
 <img src="https://img.shields.io/badge/Elasticsearch-475569?style=flat-square&amp;logo=elasticsearch&amp;logoColor=white" alt="Elasticsearch" /> &nbsp;
 <img src="https://img.shields.io/badge/Message%20Queue-475569?style=flat-square" alt="Message Queue (MQ)" />
 
-<br />
-<br />
 
 **AI 应用与 Agent**
 
@@ -66,12 +61,7 @@
 <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" /> &nbsp;
 <img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=flat-square" alt="Tool Calling" />
 
-<br />
-
-<sub>实践与学习方向 · 从业务场景理解工具背后的工程取舍</sub>
-
-<br />
-<br />
+<sub>*实践与学习方向 · 从业务场景理解工具背后的工程取舍*</sub>
 
 ### <img src="assets/compass.svg" width="22" height="22" alt="" /> 持续深入
 
