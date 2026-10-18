@@ -10,7 +10,12 @@
 <a href="https://github.com/k65010825-ship-it"><img src="https://img.shields.io/badge/GitHub-k65010825--ship--it-181717?style=flat-square&amp;logo=github" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2563EB?style=flat-square" alt="Focus: Backend Engineering" />
 <img src="https://img.shields.io/badge/Exploring-AI%20Engineering-8B5CF6?style=flat-square" alt="Exploring: AI Engineering" />
-
+<br />
+<br />
+**我的个人博客平台**
+<br />
+<br />
+[![Blog](https://img.shields.io/badge/Blog-Jocelyn's%20Blog%20Platform-ff6b35?style=flat-square&logo=github&logoColor=white)](https://tech-blog-one-liart.vercel.app)
 <br />
 <br />
 
