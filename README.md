@@ -17,7 +17,6 @@
 <br />
 [![Blog](https://img.shields.io/badge/Blog-Jocelyn's%20Blog%20Platform-ff6b35?style=flat-square&logo=github&logoColor=white)](https://tech-blog-one-liart.vercel.app)
 <br />
-<br />
 
 </div>
 
@@ -58,13 +57,10 @@
 
 <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /> &nbsp;
 <img src="https://img.shields.io/badge/React-0891B2?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" /> &nbsp;
-<img src="https://img.shields.io/badge/LangChain-4F46E5?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
 
 <img src="https://img.shields.io/badge/Agents-2563EB?style=flat-square" alt="Agents" /> &nbsp;
 <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" /> &nbsp;
 <img src="https://img.shields.io/badge/Tool%20Calling-7C3AED?style=flat-square" alt="Tool Calling" />
-
-<sub>*实践与学习方向 · 从业务场景理解工具背后的工程取舍*</sub>
 
 ### <img src="assets/compass.svg" width="22" height="22" alt="" /> 持续深入
 
